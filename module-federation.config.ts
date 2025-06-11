@@ -1,5 +1,5 @@
 export const mfConfig = {
-  name: "react_remote",
+  name: "remote",
   filename: "remoteEntry.js",
   exposes: {
     "./Button": "./src/Button",
